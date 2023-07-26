@@ -21,9 +21,7 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" alt="bigdata-icon" src="https://www.bing.com/images/search?view=detailV2&ccid=xiiQvPvP&id=2C615154E78B8F6EDBB5B3AD045ADFEA941671EA&thid=OIP.xiiQvPvPt1lnd--RzbCH6AHaHw&mediaurl=https%3a%2f%2fwww.vhv.rs%2fdpng%2fd%2f500-5004244_transparent-big-data-icon-png-big-data-and.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c62890bcfbcfb7596777ef91cdb087e8%3frik%3d6nEWlOrfWgStsw%26pid%3dImgRaw%26r%3d0&exph=901&expw=860&q=big+data+icon&simid=608049601641907976&FORM=IRPRST&ck=4A9E3B61DBC5E34BC6AD434ABB5A36AC&selectedIndex=4&ajaxhist=0&ajaxserp=0">
-
- 
+  <img align="center" height="30" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
     
   

@@ -6,10 +6,12 @@
 - ⚡ Em busca da minha primeira oportunidade no Mercado de Trabalho.
 
 
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devcaiomassei_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devcaiomassei&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>

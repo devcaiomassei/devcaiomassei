@@ -22,4 +22,4 @@
     <img align="center" alt="Devcaiomassei" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt="Devcaiomassei" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
        <img align="center" alt="Devcaiomassei" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-        <img align="center" alt="Devcaiomassei" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+        <img align="center" alt="Devcaiomassei" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original.svg" />

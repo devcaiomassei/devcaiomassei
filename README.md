@@ -6,7 +6,7 @@
 - ⚡ Em busca da minha primeira oportunidade no Mercado de Trabalho.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devcaiomassei)](https://github.com/devcaiomassei/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devcaiomassei)](https://github.com/Devcaiomassei/github-readme-stats)
 
 
 <div  align="center"> 

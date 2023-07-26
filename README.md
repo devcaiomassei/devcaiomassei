@@ -6,11 +6,7 @@
 - ⚡ Em busca da minha primeira oportunidade no Mercado de Trabalho.
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devcaiomassei&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devcaiomassei)](https://github.com/devcaiomassei/github-readme-stats)
 
 
 <div  align="center"> 

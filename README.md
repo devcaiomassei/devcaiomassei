@@ -32,7 +32,7 @@ Automação de Testes: Selenium.
 
 🔍 Meta Futura:
 
-Continuar a aprimorar habilidades em Ciência de Dados, explorando novas tecnologias e frameworks.
+Continuar a aprimorar habilidades em Desenvolvedor FullStack, explorando novas tecnologias e frameworks.
 
 📚 Educação Continuada:
 

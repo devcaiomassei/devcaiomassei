@@ -1,10 +1,39 @@
 ## Olá! Eu sou o Caio Massei 👋
 
 
-- 🔭 Estudante de software Developer.
-- 🌱 Estudante de Data Science.
-- 🔭 Apaixonado por tecnologia
-- ⚡ Em busca da minha primeira oportunidade no Mercado de Trabalho.
+🚀 Perfil Profissional: Desenvolvedor de Software e Estudante de Ciência de Dados
+
+🎓 Formação Acadêmica:
+
+Estudante dedicado de Desenvolvimento de Software e Ciência de Dados.
+🌱 Jornada Acadêmica:
+
+Apaixonado por tecnologia e inovação, estou constantemente buscando conhecimentos em desenvolvimento de software e ciência de dados.
+💼 Experiência Profissional:
+
+Desenvolvedor Fullstack com 1 ano de experiência prática.
+Habilidades em: Java, Spring Boot, SQL, JavaScript, HTML, CSS, Angular, AWS Cloud, Python, Django, Machine Learning e Selenium.
+🚀 Conquistas Profissionais:
+
+Contribuições significativas para projetos Fullstack, destacando-se em ambientes Java e tecnologias front-end.
+Experiência sólida em desenvolvimento de aplicações web modernas e integração de sistemas.
+🌐 Competências Técnicas:
+
+Desenvolvimento Fullstack: Java, Spring Boot, Angular.
+Bancos de Dados: SQL.
+Tecnologias Web: JavaScript, HTML, CSS.
+Nuvem: AWS Cloud.
+Ciência de Dados: Python, Django, Machine Learning.
+Automação de Testes: Selenium.
+🔍 Meta Futura:
+
+Continuar a aprimorar habilidades em Ciência de Dados, explorando novas tecnologias e frameworks.
+📚 Educação Continuada:
+
+Atualmente empenhado em aprimorar habilidades técnicas e teóricas, buscando contribuir ativamente para projetos desafiadores.
+✨ Compromisso com a Excelência:
+
+Comprometido com a entrega de soluções inovadoras e eficientes, focado em impulsionar o impacto positivo por meio da tecnologia.
 
 
 <div align="center">
